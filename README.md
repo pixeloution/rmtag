@@ -22,8 +22,8 @@ Strictly speaking, `--test` isn't required but it makes me feel better to type i
 **DESCRIPTION**
   
     when run within a directory version controlled by git, deletes all tags
-    between minVersion and maxVersion, including exact
-    matches for minVersion and maxVersion
+    between minVersion and maxVersion, including exact matches for minVersion 
+    and maxVersion
 
 **OPTIONS**    
   
